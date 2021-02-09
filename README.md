@@ -12,8 +12,8 @@
 
 |  |  |
 |--|--|
-| NIM | **nim** |
-| Nama Lengkap | **nama** |
+| NIM | **1941720116** |
+| Nama Lengkap | **Girindra Fajar Nugraha** |
 | Kelas | TI-2B |
 
 
@@ -33,4 +33,4 @@ Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektua
 
 Ttd,
 
-***(nama lengkap Anda)***
+***(Girindra Fajar Nugraha)***
